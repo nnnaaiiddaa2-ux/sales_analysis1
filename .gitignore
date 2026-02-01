@@ -1,5 +1,6 @@
-config.json.txt
+config.json
 *.png
 *.jpg
 *.jpeg
+*.lnk
 screenshots/
