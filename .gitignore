@@ -3,4 +3,5 @@ config.json
 *.jpg
 *.jpeg
 *.lnk
+__pycache__/
 screenshots/
